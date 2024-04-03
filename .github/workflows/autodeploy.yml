@@ -18,11 +18,11 @@ on:
 
 env:
 
-  GIT_USER: weixiansheng
+  GIT_USER: PengDave
 
   GIT_EMAIL: ${{secrets.GITHUBEMAIL}}
 
-  THEME_REPO: jerryc127/hexo-theme-butterfly
+  THEME_REPO: landscape
 
   THEME_BRANCH: myblog
 
