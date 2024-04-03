@@ -62,7 +62,7 @@ jobs:
 
         with:
 
-          node-version: "20.x" #action使用的node版本，建议大版本和本地保持一致。可以在本地用node -v查询版本号。
+          node-version: "20.11.0" #action使用的node版本，建议大版本和本地保持一致。可以在本地用node -v查询版本号。
 
       - name: 配置 环境变量
 
