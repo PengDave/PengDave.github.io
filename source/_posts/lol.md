@@ -1,6 +1,7 @@
 # lalala
 # lalqa
 hello!
-$\log{n}$
+
+$\log_{2}{n}$
 
 $\zeta(-1)=-\frac{1}{12}$
