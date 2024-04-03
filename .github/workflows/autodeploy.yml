@@ -54,7 +54,7 @@ jobs:
 
           ref: ${{ env.THEME_BRANCH }}
 
-          path: node_modules/hexo-theme-butterfly
+          path: node_modules/hexo-theme-landscape
 
       - name: 安装 Node
 
