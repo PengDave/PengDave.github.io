@@ -8,7 +8,7 @@ on:
 
     branches:
 
-      - master #2020年10月后github新建仓库默认分支改为main，注意在github上更改main为master
+      - myblog #2020年10月后github新建仓库默认分支改为main，注意在github上更改main为master
 
   release:
 
@@ -24,7 +24,7 @@ env:
 
   THEME_REPO: jerryc127/hexo-theme-butterfly
 
-  THEME_BRANCH: master
+  THEME_BRANCH: myblog
 
   
 
@@ -42,7 +42,7 @@ jobs:
 
         with:
 
-          ref: master #2020年10月后github新建仓库默认分支改为main，注意在github上更改main为master
+          ref: myblog #2020年10月后github新建仓库默认分支改为main，注意在github上更改main为master
 
       - name: Checkout theme repo #检查主题
 
