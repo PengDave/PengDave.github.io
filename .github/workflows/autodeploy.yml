@@ -22,7 +22,7 @@ env:
 
   GIT_EMAIL: ${{secrets.GITHUBEMAIL}}
 
-  THEME_REPO: landscape
+  THEME_REPO: hexojs/hexo-theme-landscape
 
   THEME_BRANCH: myblog
 
