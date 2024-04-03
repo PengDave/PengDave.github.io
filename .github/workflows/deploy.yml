@@ -38,7 +38,7 @@ jobs:
 
       - name: 检查分支
 
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
         with:
 
@@ -46,7 +46,7 @@ jobs:
 
       - name: Checkout theme repo #检查主题
 
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
         with:
 
